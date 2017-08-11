@@ -19,8 +19,8 @@
     "test": "gulp test"
   },
   "engines": {
-    "npm": ">=3.0.0",
-    "node": ">=4.4.0"
+    "npm": ">=4.1.2",
+    "node": ">=7.6.0"
   },
   "window": {
     "title": "Butter",
@@ -84,18 +84,21 @@
   "devDependencies": {
     "bower": "^1.7.9",
     "del": "^2.2.0",
-    "jshint": "^2.9.1",
-    "jshint-stylish": "^2.1.0",
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0",
     "git-rev": "^0.2.1",
     "gulp": "^3.9.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-gzip": "^1.2.0",
+    "gulp-jsbeautifier": "^2.0.3",
+    "gulp-jshint": "^2.0.0",
+    "gulp-load-plugins": "^1.2.0",
     "gulp-stylus": "^2.3.1",
     "gulp-tar": "^1.8.0",
-    "gulp-gzip": "^1.2.0",
-    "gulp-jshint": "^2.0.0",
-    "gulp-jsbeautifier": "^2.0.3",
-    "gulp-filter": "^4.0.0",
-    "gulp-load-plugins": "^1.2.0",
     "guppy-pre-commit": "^0.4.0",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0",
     "nib": "^1.1.0",
     "nw-builder": "^3.1.2",
     "run-sequence": "^1.1.5",
