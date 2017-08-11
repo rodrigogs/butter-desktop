@@ -1,8 +1,8 @@
-# [Butter](https://github.com/butterproject/butter-desktop)
+# [Butter](https://github.com/rodrigogs/butter-desktop)
 
-[![Build Status](https://travis-ci.org/butterproject/butter-desktop.svg?branch=master)](https://travis-ci.org/butterproject/butter-desktop)
-[![Dependency Status](https://david-dm.org/butterproject/butter-desktop.svg)](https://david-dm.org/butterproject/butter-desktop)
-[![devDependency Status](https://david-dm.org/butterproject/butter-desktop/dev-status.svg)](https://david-dm.org/butterproject/butter-desktop#info=devDependencies)
+[![Build Status](https://travis-ci.org/rodrigogs/butter-desktop.svg?branch=master)](https://travis-ci.org/rodrigogs/butter-desktop)
+[![Dependency Status](https://david-dm.org/rodrigogs/butter-desktop.svg)](https://david-dm.org/rodrigogs/butter-desktop)
+[![devDependency Status](https://david-dm.org/rodrigogs/butter-desktop/dev-status.svg)](https://david-dm.org/rodrigogs/butter-desktop#info=devDependencies)
 
 Allow any user to easily watch movies through torrent streaming, without any prerequisites.
 
@@ -20,7 +20,7 @@ If you're comfortable getting up and running from a `git clone`, this method is 
 
 After you clone the GitHub repository, you will need to build a number of assets using gulp.
 
-The [master](https://github.com/butterproject/butter-desktop) branch which contains the latest release.
+The [master](https://github.com/rodrigogs/butter-desktop) branch which contains the latest release.
 
 #### Quickstart:
 
